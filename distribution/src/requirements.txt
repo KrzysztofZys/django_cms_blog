@@ -9,7 +9,7 @@ catkin==0.7.20
 controller-manager-msgs==0.15.1
 cv-bridge==1.13.0
 diagnostic-updater==1.9.3
-Django==3.0.2
+Django==3.1.13
 dynamic-reconfigure==1.6.0
 gencpp==0.6.2
 geneus==2.2.6
