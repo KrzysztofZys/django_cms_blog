@@ -24,7 +24,7 @@ laser-geometry==1.6.4
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 message-filters==1.14.3
-Pillow==7.0.0
+Pillow==9.0.1
 pylint==2.4.4
 python-qt-binding==0.3.6
 pytz==2019.3
